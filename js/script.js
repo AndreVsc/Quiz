@@ -19,7 +19,7 @@ const questions = [
     ,
     {
         question:"Qual é o Pokémon amarelo e elétrico que é o mascote da franquia?",
-        choices:["Haunter","Jolteon","Magmar","Golem"],
+        choices:["Haunter","Jolteon","Magmar","Pikachu"],
         answer:"Pikachu",
     }
     ,
